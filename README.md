@@ -94,3 +94,5 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
 
 <br/>
 <br/>
+
+<img src="https://raw.githubusercontent.com/CarlosEduardoCst4/CarlosEduardoCst4/output/snake.svg" alt="Snake animation" />
