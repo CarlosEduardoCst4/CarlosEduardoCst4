@@ -6,18 +6,18 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
 
  
 <p align="left">
-     <a href="https://github.com/DuDuz1n03?tab=followers">
+     <a href="https://github.com/CarlosEduardoCst4?tab=followers">
          <img 
              alt="Seguidores"
              title="Me siga no  Github"
-             src="https://custom-icon-badges.demolab.com/github/followers/DuDuz1n03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+             src="https://custom-icon-badges.demolab.com/github/followers/CarlosEduardoCst4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
              />
              </a>
-      <a href="https://github.com/DuDuz1n03?tab=repositories&sort=stargazers">
+      <a href="https://github.com/CarlosEduardoCst4?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DuDuz1n03?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/CarlosEduardoCst4?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
