@@ -29,33 +29,41 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
     alt="sql" 
     title="Sql"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 /> 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    alt="C++" 
+    title="C++"
+    width="40px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="40px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <br/>
 <br/>
@@ -63,8 +71,12 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
 ### 🕹️ Softwares
 
 <p align="left" dir="auto">
-    <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-    <a href="https://www.figma.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" height="40" alt="figmalogo"  />
+    <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio" />
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sqldeveloper"  />
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figmalogo"  />
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github"/>
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git"/>
 <br clear="both">
 
 <br/>
