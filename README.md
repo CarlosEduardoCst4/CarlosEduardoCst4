@@ -1,4 +1,4 @@
-# .ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤDuDu 
+# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤDuDu 
 
 ### ​🥷 Desenvolvedor De Software
 
