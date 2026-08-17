@@ -2,7 +2,19 @@
 
 ### ​🥷 Desenvolvedor De Software
 
+ Olá! Sou o Carlos, mas chamado por alguns de "DuDu", sou estudante do 2º ano de Análise 
+e Desenvolvimento de Sistemas (ADS).
 
+ Estou começando agora na área de tecnologia, e atualmente atuo como estagiário 
+desenvolvedor de software em Java.
+
+ Na faculdade venho aprendendo outras linguagens e tecnologias, como Python, .NET, 
+PHP, HTML5, CSS3, SQL, entre outras competências da computação.
+
+ Sou muito curioso quando o assunto é programação — gosto de aprender coisas 
+novas, testar, quebrar a cabeça e compartilhar o que descubro pelo caminho.
+
+ Sempre aberto a trocar ideias, aprender junto e evoluir na área!
 
  
 <p align="left">
