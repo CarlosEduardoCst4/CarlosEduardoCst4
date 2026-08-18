@@ -98,13 +98,13 @@ novas, testar, quebrar a cabeça e compartilhar o que descubro pelo caminho.
 ### 🕹️ Softwares
 
 <p align="left" dir="auto">
- <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  height="45" alt="Intellij"  />
+ <a href="https://www.jetbrains.com/idea/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  height="45" alt="Intellij"  />
     <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <a href="https://visualstudio.microsoft.com/pt-br/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio" />
-     <a href="https://www.oracle.com/br/database/sqldeveloper/technologies/download/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySql"  />
+     <a href="https://www.mysql.com/downloads/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySql"  />
     <a href="https://www.oracle.com/br/database/sqldeveloper/technologies/download/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="47" alt="Oracle"  />
      <a href="https://www.oracle.com/br/database/sqldeveloper/technologies/download/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sqldeveloper"  />
-      <a href="https://www.oracle.com/br/database/sqldeveloper/technologies/download/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="47" alt="AWS"  />
+      <a href="https://aws.amazon.com/pt/free/?trk=4f374c9d-ac11-490d-8b23-82df6d4e054b&sc_channel=ps&ef_id=CjwKCAjwhZDUBhBGEiwAbi5bjijeY9wLG0hf6YJMl0sajGz6L6lDbSQG-ViLChCJB3r_StxsJwtX5xoCoXwQAvD_BwE&gads_camp=23528572733&gads_ag=191423953134&gads_ad=795841170154&gads_kw=aws&gads_matchtype=e&gads_network=g&gads_device=c&gads_geo=9197935&gad_campaignid=23528572733&gbraid=0AAAAADjHtp-2jYmzAG0aWAh12t6zfi368&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjijeY9wLG0hf6YJMl0sajGz6L6lDbSQG-ViLChCJB3r_StxsJwtX5xoCoXwQAvD_BwE" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="47" alt="AWS"  />
     <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figmalogo"  />
     <a href="https://about.gitlab.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
     <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git"/>
