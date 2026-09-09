@@ -84,14 +84,6 @@ novas, testar, quebrar a cabeça e compartilhar o que descubro pelo caminho.
     style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 /> 
-<img 
-    align="left" 
-    alt="Nodejs" 
-    title="Nodejs"
-    width="36px" 
-    style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/> 
 <br/>
 <br/>
 
