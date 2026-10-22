@@ -87,7 +87,7 @@ novas, testar, quebrar a cabeça e compartilhar o que descubro pelo caminho.
 <br/>
 <br/>
 
-### 🕹️ Softwares
+### 🕹️ Softwares/Idea
 
 <p align="left" dir="auto">
  <a href="https://www.jetbrains.com/idea/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  height="45" alt="Intellij"  />
