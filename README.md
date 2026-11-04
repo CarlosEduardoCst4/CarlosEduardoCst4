@@ -22,7 +22,7 @@ novas, testar, quebrar a cabeça e compartilhar o que descubro pelo caminho.
          <img 
              alt="Seguidores"
              title="Me siga no  Github"
-             src="https://custom-icon-badges.demolab.com/github/followers/carloseduardocst4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+             src="https://custom-icon-badges.demolab.com/github/followers/CarlosEduardoCst4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
              />
              </a>
       <a href="https://github.com/CarlosEduardoCst4?tab=repositories&sort=stargazers">
